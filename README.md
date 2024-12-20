@@ -1,4 +1,4 @@
-![S-Box Analyzer GUI](assets/gui.png)
+![S-Box Analyzer GUI](asset/gui.png)
 
 # Alat Analisis S-Box
 
