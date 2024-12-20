@@ -1,3 +1,5 @@
+![S-Box Analyzer GUI](assets/gui.png)
+
 # Alat Analisis S-Box
 
 Proyek ini menyediakan serangkaian alat analisis kriptografi untuk S-Box (Substitution Box). Alat-alat ini menghitung berbagai properti kriptografi dari S-Box, termasuk namun tidak terbatas pada:
